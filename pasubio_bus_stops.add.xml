@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-03 06:33:18 by Eclipse SUMO netedit Version 1.23.1
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="busStop#1" lane="2[1][1][1]b_0" startPos="35.00" endPos="55.00" lines="--"/>
+    <busStop id="busStop#10" lane="46_0" startPos="156.88" endPos="176.88" lines="--"/>
+    <busStop id="busStop#11" lane="47_0" startPos="40.97" endPos="60.97" lines="--"/>
+    <busStop id="busStop#12" lane="49[0]_0" startPos="130.00" endPos="150.00" lines="--"/>
+    <busStop id="busStop#13" lane="50[1]a_0" startPos="30.00" endPos="50.00" lines="--"/>
+    <busStop id="busStop#15" lane="56[0]_0" startPos="110.00" endPos="130.00" lines="--"/>
+    <busStop id="busStop#16" lane="35[0]_0" startPos="95.00" endPos="115.00" lines="--"/>
+    <busStop id="busStop#17" lane="56[1][0]_0" startPos="140.00" endPos="160.00" lines="--"/>
+    <busStop id="busStop#18" lane="5[1][0]+66_0" startPos="15.00" endPos="35.00" lines="--"/>
+    <busStop id="busStop#19" lane="m66a_0" startPos="15.00" endPos="35.00" lines="--"/>
+    <busStop id="busStop#2" lane="1[0]_0" startPos="250.00" endPos="270.00" lines="--"/>
+    <busStop id="busStop#20" lane="5[1][1][1]_0" startPos="27.00" endPos="57.00" lines="--"/>
+    <busStop id="busStop#21" lane="11[0]_0" startPos="39.00" endPos="69.00" lines="--"/>
+    <busStop id="busStop#22" lane="9_0" startPos="90.00" endPos="110.00" lines="--"/>
+    <busStop id="busStop#23" lane="8_0" startPos="257.72" endPos="277.72" lines="--"/>
+    <busStop id="busStop#24" lane="3[1]b_0" startPos="100.00" endPos="120.00" lines="--"/>
+    <busStop id="busStop#25" lane="4[0]_0" startPos="50.00" endPos="70.00" lines="--"/>
+    <busStop id="busStop#26" lane="20000+35[1][1][1][0]_0" startPos="1.00" endPos="29.00" lines="--"/>
+    <busStop id="busStop#3" lane="14_0" startPos="78.13" endPos="98.13" lines="--"/>
+    <busStop id="busStop#4" lane="26.-170_0" startPos="80.00" endPos="100.00" lines="--"/>
+    <busStop id="busStop#5" lane="27_0" startPos="40.73" endPos="60.73" lines="--"/>
+    <busStop id="busStop#6" lane="17[0]_0" startPos="110.16" endPos="130.16" lines="--"/>
+    <busStop id="busStop#7" lane="16[1]_0" startPos="122.24" endPos="142.24" lines="--"/>
+    <busStop id="busStop#8" lane="36_0" startPos="59.89" endPos="79.89" lines="--"/>
+    <busStop id="busStop#9" lane="37_0" startPos="60.77" endPos="80.77" lines="--"/>
+</additional>

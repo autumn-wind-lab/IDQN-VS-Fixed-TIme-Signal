@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-03 06:35:47 by Eclipse SUMO netedit Version 1.23.1
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="bus" length="12.00" minGap="3.00" maxSpeed="70.00" vClass="bus" emissionClass="HBEFA2/HDV_6_2" guiShape="bus" lcCooperative="0.0" accel="2.6" decel="4.5" sigma="0.5"/>
+    <vTypeDistribution id="ignoring">
+        <vType id="ignoring1" length="5.00" minGap="1.50" maxSpeed="70.00" probability="0.40" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="passenger/sedan" color="204,51,51" accel="2.6" decel="4.5" sigma="0.5"/>
+        <vType id="ignoring2a" length="4.50" minGap="1.50" maxSpeed="70.00" probability="0.20" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="passenger/hatchback" color="204,204,204" accel="3.0" decel="4.5" sigma="0.5"/>
+        <vType id="ignoring2b" length="4.50" minGap="1.00" maxSpeed="70.00" probability="0.20" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="passenger/hatchback" color="51,51,204" accel="2.8" decel="4.5" sigma="0.5"/>
+        <vType id="ignoring3" length="5.00" minGap="1.50" maxSpeed="70.00" probability="0.20" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="passenger/wagon" color="77,77,77" accel="2.7" decel="4.5" sigma="0.5"/>
+        <vType id="ignoring4" length="5.00" minGap="1.50" maxSpeed="30.00" probability="0.10" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="passenger/van" color="230,230,230" accel="2.4" decel="4.5" sigma="0.5"/>
+        <vType id="ignoring5" length="5.00" minGap="1.50" maxSpeed="30.00" probability="0.05" vClass="ignoring" emissionClass="HBEFA2/P_7_7" guiShape="delivery" color="204,204,0" accel="2.3" decel="4.5" sigma="0.5"/>
+    </vTypeDistribution>
+    <vTypeDistribution id="private">
+        <vType id="passenger1" length="5.00" minGap="1.50" maxSpeed="70.00" probability="0.40" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="passenger/sedan" color="204,51,51" accel="2.6" decel="4.5" sigma="0.5"/>
+        <vType id="passenger2a" length="4.50" minGap="1.50" maxSpeed="70.00" probability="0.20" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="passenger/hatchback" color="204,204,204" accel="3.0" decel="4.5" sigma="0.5"/>
+        <vType id="passenger2b" length="4.50" minGap="1.00" maxSpeed="70.00" probability="0.20" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="passenger/hatchback" color="51,51,204" accel="2.8" decel="4.5" sigma="0.5"/>
+        <vType id="passenger3" length="5.00" minGap="1.50" maxSpeed="70.00" probability="0.20" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="passenger/wagon" color="77,77,77" accel="2.7" decel="4.5" sigma="0.5"/>
+        <vType id="passenger4" length="5.00" minGap="1.50" maxSpeed="30.00" probability="0.10" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="passenger/van" color="230,230,230" accel="2.4" decel="4.5" sigma="0.5"/>
+        <vType id="passenger5" length="5.00" minGap="1.50" maxSpeed="30.00" probability="0.05" vClass="passenger" emissionClass="HBEFA2/P_7_7" guiShape="delivery" color="204,204,0" accel="2.3" decel="4.5" sigma="0.5"/>
+    </vTypeDistribution>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+</routes>
